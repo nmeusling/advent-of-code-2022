@@ -70,4 +70,3 @@ def test_parse_input():
 if __name__ == '__main__':
     print(f'Part 1: {calculate_total_score()}')
     print(f'Part 2: {calculate_total_score_part_2()}')
-    pass
